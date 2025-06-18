@@ -1,7 +1,14 @@
 [
   {
+    "video_path": "ads/video.mp4",
+    "click_url": "https://example1.com",
+    "active": true,
+    "weight": 2
+  },
+  {
     "video_path": "ads/video1.mp4",
-    "click_url": "https://hakwo65.github.io/crominegames.com/",
-    "active": true
+    "click_url": "https://example2.com",
+    "active": true,
+    "weight": 3
   }
 ]
