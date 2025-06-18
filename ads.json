@@ -1,0 +1,10 @@
+[
+  {
+    "image_url": "crominelogo.jpg",
+    "click_url": "https://example.com/offer1"
+  },
+  {
+    "image_url": "crominelogo.jpg",
+    "click_url": "https://example.com/offer2"
+  }
+]
