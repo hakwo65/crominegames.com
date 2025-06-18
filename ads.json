@@ -1,10 +1,7 @@
 [
   {
-    "image_url": "https://hakwo65.github.io/crominegames.com/ad1.jpg",
-    "click_url": "https://example.com/game1"
-  },
-  {
-    "image_url": "https://hakwo65.github.io/crominegames.com/ad2.jpg",
-    "click_url": "https://example.com/game2"
+    "video_url": "https://hakwo65.github.io/crominegames.com/video.mp4",
+    "click_url": "https://hakwo65.github.io/crominegames.com/",
+    "active": true
   }
 ]
