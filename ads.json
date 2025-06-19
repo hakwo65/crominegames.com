@@ -8,7 +8,7 @@
   {
     "video_url": "https://hakwo65.github.io/crominegames.com/video.mp4",
     "click_url": "https://example2.com",
-    "active": true,
+    "active": false,
     "weight": 5
   },
   {
