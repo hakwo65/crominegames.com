@@ -2,31 +2,31 @@
   {
     "video_url": "https://hakwo65.github.io/crominegames.com/video.mp4",
     "click_url": "https://hakwo65.github.io/crominegames.com/",
-    "active": true,
-    "weight": 1
+    "active": false,
+    "weight": 0
   },
   {
     "video_url": "https://hakwo65.github.io/crominegames.com/video1.mp4",
     "click_url": "https://example2.com",
-    "active": true,
-    "weight": 5
+    "active": false,
+    "weight": 0
   },
   {
     "video_url": "https://hakwo65.github.io/crominegames.com/ads/video3.mp4",
     "click_url": "https://example3.com",
     "active": false,
-    "weight": 2
+    "weight": 0
   },
   {
     "video_url": "https://hakwo65.github.io/crominegames.com/ads/video4.mp4",
     "click_url": "https://example4.com",
     "active": false,
-    "weight": 1
+    "weight": 0
   },
   {
     "video_url": "https://hakwo65.github.io/crominegames.com/ads/video5.mp4",
     "click_url": "https://example5.com",
     "active": false,
-    "weight": 4
+    "weight": 0
   }
 ]
