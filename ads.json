@@ -18,14 +18,14 @@
     "click_url": "https://example3.com",
     "active": true,
     "weight": 1
-    "max_per_day": 1
+    "max_per_day": 5
   },
   {
     "video_url": "https://hakwo65.github.io/crominegames.com/video3.mp4",
     "click_url": "https://example4.com",
     "active": true,
     "weight": 8
-    "max_per_day": 1
+    "max_per_day": 20
   },
   {
     "video_url": "https://hakwo65.github.io/crominegames.com/video4.mp4",
